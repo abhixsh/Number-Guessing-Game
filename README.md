@@ -20,4 +20,4 @@ This is a simple C program for a number guessing game. The user has to guess a r
 - The program returns 0 to indicate successful execution.
 
 ## Game Output Screenshots 
-![Game ss](01.png)
+![Game ss](01.jpg)
